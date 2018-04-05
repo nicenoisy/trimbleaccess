@@ -16,7 +16,7 @@ newmtl Metal_Aluminum_Anodized
 Ka 0.000000 0.000000 0.000000
 Kd 0.792157 0.819608 0.858824
 Ks 0.330000 0.330000 0.330000
-map_Kd TRIMBLE_TOTAL_STATION_S6+TCU+TRIPOD/Metal_Aluminum_Anodized.jpg
+map_Kd Metal_Aluminum_Anodized.jpg
 
 newmtl Color_D02
 Ka 0.000000 0.000000 0.000000
@@ -52,7 +52,7 @@ newmtl Water_Deep
 Ka 0.000000 0.000000 0.000000
 Kd 0.015686 0.396078 0.501961
 Ks 0.330000 0.330000 0.330000
-map_Kd TRIMBLE_TOTAL_STATION_S6+TCU+TRIPOD/Water_Deep.jpg
+map_Kd Water_Deep.jpg
 
 newmtl M_0089_PaleTurquoise
 Ka 0.000000 0.000000 0.000000
@@ -63,7 +63,7 @@ newmtl Metal_Panel
 Ka 0.000000 0.000000 0.000000
 Kd 0.560784 0.615686 0.619608
 Ks 0.330000 0.330000 0.330000
-map_Kd TRIMBLE_TOTAL_STATION_S6+TCU+TRIPOD/Metal_Panel.jpg
+map_Kd Metal_Panel.jpg
 
 newmtl Color_005
 Ka 0.000000 0.000000 0.000000
@@ -79,5 +79,5 @@ newmtl trimble_access
 Ka 0.000000 0.000000 0.000000
 Kd 0.733333 0.729412 0.709804
 Ks 0.330000 0.330000 0.330000
-map_Kd TRIMBLE_TOTAL_STATION_S6+TCU+TRIPOD/trimble_access.jpg
+map_Kd trimble_access.jpg
 
